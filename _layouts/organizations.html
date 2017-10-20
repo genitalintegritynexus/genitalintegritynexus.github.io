@@ -1,0 +1,10 @@
+---
+layout: page
+---
+
+<ul>{% for link in page.links %}
+	<li><a href="{{ link.url }}">{{ link.type }}</a></li>
+{% endfor %}
+</ul>
+
+<a href="{% link organizations.html %}"> Return to Organizations </a>

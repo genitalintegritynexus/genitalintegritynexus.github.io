@@ -1,0 +1,20 @@
+# Setup
+title:               Genital Integrity Nexus
+tagline:             'Open Source Intactivism'
+url:                 http://127.0.0.1/
+baseurl:             ''
+paginate:            1
+plugins:             [jekyll-paginate]
+permalink:           pretty
+
+# About/contact
+author:
+  name:              David Freeman
+  twitter:           https://twitter.com/duckduckd3uc3
+  email:             duckduckd3uc3@gmail.com
+
+# _organizations
+collections:
+  organizations:
+    output: true
+    permalink: /:collection/:name
