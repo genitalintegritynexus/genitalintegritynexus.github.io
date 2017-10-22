@@ -13,4 +13,4 @@ bitcoinaddr: 1MAPfX5bLKmwvETpaFrJt1b2rEj4nRks6T
  <img src="{{ page.bitcoinqr }}">
 
 
-Questions or suggestions? [Open an issue on GitHub](https://github.com/duckartes/duckartes.github.io/issues/new).
+Questions or suggestions? [Open an issue on GitHub](https://github.com/genitalintegritynexus/genitalintegritynexus.github.io/issues/new).
